@@ -1,2 +1,0 @@
-Coloca aquí tu foto de perfil con el nombre "foto-perfil.jpg"
-(o cambia el nombre en index.html por el de tu archivo).
